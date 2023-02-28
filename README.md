@@ -5,6 +5,8 @@ OpenCV (Open Source Computer Vision Library) is a popular computer vision and im
 
 OpenCV provides a vast collection of functions that can be used to process and analyze images, videos, and live streams. It supports various programming languages, including C++, Python, Java, and MATLAB, and runs on different platforms, including Windows, Linux, macOS, iOS, and Android.
 
+OpenCV (cv2) works with NumPy arrays. NumPy is a Python library for numerical computing, and it provides a convenient way to store and manipulate multi-dimensional arrays of data.
+
 In Python, OpenCV can be used to perform a wide range of tasks, including image and video processing, object detection and recognition, face detection and recognition, feature extraction and matching, camera calibration, and more. It provides a simple and intuitive interface to perform complex image and video processing operations with just a few lines of code. Here in our project we will use just a few lines of code to convert an image to a sketch on the fly.
 
 Steps involved:
